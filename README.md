@@ -1,4 +1,4 @@
 Aplicativo de saude mental para o CAPS Guanhães.
 
-![image](https://github.com/user-attachments/assets/2b9cf9e6-2f08-4808-8373-60c06c66058f)
+![87a7706e-29f1-4df6-b10a-24a924555e4c](https://github.com/user-attachments/assets/139d5180-b3b7-4be8-abcc-96e85c814340)
 
